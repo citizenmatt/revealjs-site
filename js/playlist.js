@@ -75,7 +75,6 @@ var conferenceType = {
     ],
 
     gaming: [
-        allProducts.rider,
         allProducts.riderUnity
     ]
 };
